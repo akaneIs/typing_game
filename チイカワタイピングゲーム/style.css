@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+body {
+  padding-top: 40px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+main{
+  width: 750px;
+  padding: 20px;
+  border: 4px solid #fff;
+  border-radius: 12px;
+  margin: 16px auto;
+}
+
+.title {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:rgb(55, 100, 173);
+}
+
+.titele-img {
+  margin: 12px;
+}
+
+.bg-img {
+  width: 100%;
+}
+
+
+
+#target {
+  font-size: 48px;
+  letter-spacing: .1rem;
+  margin: auto;
+
+}
+
+
+.p-target {
+  color: rgb(82, 49, 69);
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+}
+.start:hover {
+  opacity: .6;
+  cursor: pointer;
+}
+.on-click{
+  color: indianred;
+}
+
+.start {
+  color: rgb(10, 123, 189);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.footer-img {
+width: 100%;
+}
+
+
+
